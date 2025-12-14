@@ -7,3 +7,4 @@ external_components:
       #type: git
       #url: file:///Users/user/path_to_repo
       #ref: branch_or_tag
+   components: [fan_control]
